@@ -1,5 +1,5 @@
 # soc-log-analytics
-# 🛡️ SOC Big Data Log Analytics
+#  SOC Big Data Log Analytics
 
 > Plateforme de détection d'intrusions basée sur PySpark, Isolation Forest et Flask API
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🗺️ Architecture
+##  Architecture
 
 ```
 Ingestion (Syslog/Kafka)
