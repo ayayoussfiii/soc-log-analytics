@@ -33,7 +33,7 @@ SOC Dashboard (Live feed + Export)
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 soc-log-analytics/
@@ -65,7 +65,7 @@ soc-log-analytics/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Cloner le projet
 
@@ -97,7 +97,7 @@ cp .env.example .env
 
 ---
 
-## ▶️ Utilisation
+##  Utilisation
 
 ### Lancer l'API Flask
 
@@ -134,7 +134,7 @@ python etl/spark_pipeline.py data/logs data/output
 
 ---
 
-## 🔍 API Endpoints
+##  API Endpoints
 
 | Méthode | Endpoint | Description |
 |---------|----------|-------------|
@@ -145,7 +145,7 @@ python etl/spark_pipeline.py data/logs data/output
 
 ---
 
-## 🎯 MITRE ATT&CK Coverage
+##  MITRE ATT&CK Coverage
 
 | Technique | ID | Règle Sigma |
 |-----------|----|-------------|
@@ -157,7 +157,7 @@ python etl/spark_pipeline.py data/logs data/output
 
 ---
 
-## 🐳 Docker
+##  Docker
 
 ```bash
 docker-compose up -d
@@ -165,9 +165,7 @@ docker-compose up -d
 
 ---
 
-## 👤 Auteur
 
-**ayayoussfiii** — [github.com/ayayoussfiii](https://github.com/ayayoussfiii)
 
 ---
 
